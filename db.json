@@ -1,0 +1,73 @@
+{
+    "questions": [
+        {
+            "quest": "What is your name?",
+            "type": "text"
+        },
+        {
+            "quest": "Where do you live?",
+            "type": "text"
+        },
+        {
+            "quest": "What is your gender?",
+            "type": "radio",
+            "options": [
+                "male",
+                "female",
+                "others"
+            ]
+        },
+        {
+            "quest": "What is your highest level of education?",
+            "type": "text"
+        },
+        {
+            "quest": "Do you have any disability?",
+            "type": "radio",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "quest": "What is your marital status?",
+            "type": "radio",
+            "options": [
+                "single",
+                "married",
+                "unmarried",
+                "divorced"
+            ]
+        },
+        {
+            "quest": "Are you currently working somewhere?",
+            "type": "radio",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "quest": "What are your hobbies?",
+            "type": "text"
+        },
+        {
+            "quest": "Whom you love the most?",
+            "type": "radio",
+            "options": [
+                "family",
+                "friend",
+                "lover",
+                "money"
+            ]
+        },
+        {
+            "quest": "Do you like coffee?",
+            "type": "radio",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        }
+    ]
+}
