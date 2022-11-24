@@ -13,4 +13,4 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 and for running the db.json file,
-open another terminal and type - json-server --port 8080 --watch db.json
+open another terminal and type - "json-server --port 8080 --watch db.json"
